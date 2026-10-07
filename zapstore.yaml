@@ -1,0 +1,57 @@
+# Zapstore publishing config for Musqet Merchant (https://zapstore.dev/docs/publish).
+# The source code is private; this repository exists so Zapstore can verify the publisher.
+repository: https://github.com/Musqet/musqet-merchant-android
+pubkey: npub1musqetp57matzsjcwd2y7tvxe59h85v74pqasnqxk7fhpwazzjpseyv5kr
+name: Musqet Merchant
+summary: Manage your Musqet Bitcoin Wallet
+description: |
+  Musqet Merchant lets you manage your Musqet Bitcoin Wallet on your mobile device.
+
+  In addition to seeing transactions made via your Point of Sale or eCommerce system, you can also take and send payments directly from the app.
+
+  Charge an amount, show the QR code, and watch the payment land in a wallet only you control. No card machine to buy, no terminal to wire in, and nobody holding your takings but you.
+
+  TAKE PAYMENTS
+  • Enter an amount and show a QR code at the counter
+  • Accepts Lightning and on-chain bitcoin
+  • Watch each payment confirm as it happens
+  • Create shareable tip links so customers can tip without making a purchase. Tips go to the business, not to individual staff
+
+  YOUR MONEY, YOUR KEYS
+  • Your wallet is created on this phone and stays on it
+  • Musqet cannot spend your money, freeze it, or lock you out
+  • A 12-word recovery phrase restores your wallet if you lose the phone. Write it down and keep it safe, because it is the only way back in
+  • The app will not store a wallet on a phone with no screen lock
+
+  KEEP TRACK
+  • Today's takings on the home screen
+  • Full sales history, with the payment method and settlement status on every entry
+  • See what you owe Musqet in Bitcoin transaction fees, and settle it straight from your wallet. It usually confirms within a minute
+
+  RUN YOUR TEAM
+  • Invite staff and give each of them only the access they need
+  • Switch between businesses if you run more than one
+
+  SEND AND RECEIVE
+  • Send bitcoin by scanning a QR code, pasting an address, or picking a photo of a code you saved earlier
+  • Pay Lightning invoices and Lightning addresses
+  • Receive into your business wallet or your personal one
+
+  Musqet Merchant needs a Musqet merchant account to sign in.
+
+  Bitcoin payments are final and cannot be reversed, and the bitcoin price moves. Please make sure you are comfortable with both before you take payments.
+icon: ./icon.png
+images:
+  - ./screenshots/1.png
+  - ./screenshots/2.png
+  - ./screenshots/3.png
+  - ./screenshots/4.png
+  - ./screenshots/5.png
+website: https://musqet.com
+tags:
+  - bitcoin
+  - lightning
+  - payments
+  - merchant
+  - point-of-sale
+release_notes: ./CHANGELOG.md
