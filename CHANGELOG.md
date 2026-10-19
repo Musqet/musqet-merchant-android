@@ -2,6 +2,13 @@
 
 Release notes for Musqet Merchant on Zapstore.
 
+## [1.0.15] - 2026-10-19
+
+- The app can now tell you when an update is needed. If a change at Musqet ever needs a newer version, you will see a screen with a button that takes you to the update.
+- While you are signed in, the app tells Musqet its version, your device model and its system version, so we can help faster if something goes wrong. Nothing else about your device is collected.
+- On Android, the app is now a smaller download.
+- You may be asked to accept our updated Privacy Policy.
+
 ## [1.0.14] - 2026-10-07
 
 - A fresh look: lighter wallet cards, a sage personal wallet, and buttons that press like buttons.
