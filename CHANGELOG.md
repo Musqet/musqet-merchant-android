@@ -2,6 +2,12 @@
 
 Release notes for Musqet Merchant on Zapstore.
 
+## [1.0.16] - 2026-10-20
+
+- New About page in the Menu: see your app version and device, copy an ID for support, and find links to My Musqet, the help centre, support, our Terms and Conditions and Privacy Policy, and the open-source licences the app uses.
+- Amounts of one sat now read "1 sat" instead of "1 sats", in every language.
+- Both wallets now use the same "Show recovery phrase" button.
+
 ## [1.0.15] - 2026-10-19
 
 - The app can now tell you when an update is needed. If a change at Musqet ever needs a newer version, you will see a screen with a button that takes you to the update.
