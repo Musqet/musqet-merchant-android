@@ -2,6 +2,12 @@
 
 Release notes for Musqet Merchant on Zapstore.
 
+## [1.0.17] - 2026-10-21
+
+- New "Send all" on Send bitcoin: fill in your whole balance in one tap, with any network fee allowed for.
+- Going back from the review screen now keeps the address and amount you entered, so you can make a change without starting again.
+- Small improvements to forms and loading indicators, and better crash reports on Android so we can fix problems faster.
+
 ## [1.0.16] - 2026-10-20
 
 - New About page in the Menu: see your app version and device, copy an ID for support, and find links to My Musqet, the help centre, support, our Terms and Conditions and Privacy Policy, and the open-source licences the app uses.
