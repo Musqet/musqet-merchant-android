@@ -2,6 +2,12 @@
 
 Release notes for Musqet Merchant on Zapstore.
 
+## [1.0.18] - 2026-10-28
+
+- The app now moves the way your device does: swipe from the edge or use back to go back, and swipe left or right to switch tabs.
+- Send, Receive and other screens open as sheets you swipe down or go back to close. In Send you can step back to change the amount, and it cannot close while a payment is going out.
+- On a tablet the app turns with the screen and uses the space: lists sit beside what you open, and Take payment shows the keypad and the customer's code side by side.
+
 ## [1.0.17] - 2026-10-21
 
 - New "Send all" on Send bitcoin: fill in your whole balance in one tap, with any network fee allowed for.
