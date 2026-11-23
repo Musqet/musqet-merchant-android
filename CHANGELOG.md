@@ -2,6 +2,12 @@
 
 Release notes for Musqet Merchant on Zapstore.
 
+## [1.0.19] - 2026-11-23
+
+- Your takings on Home now update when you come back to the app, and after a payment arrives your balance moves once to the new amount instead of jumping about.
+- Signing in is more private: a failed sign-in no longer shows whether an email has an account. If you have not confirmed your email yet, you can resend the link from the sign-in screen.
+- Sign-in and sign-up messages now appear in the language you have chosen in the app.
+
 ## [1.0.18] - 2026-10-28
 
 - The app now moves the way your device does: swipe from the edge or use back to go back, and swipe left or right to switch tabs.
